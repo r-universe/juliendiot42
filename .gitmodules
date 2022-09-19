@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "markdownInput"]
-	path = markdownInput
-	url = https://github.com/juliendiot42/markdowninput
-	shallow = true
-	registered = true
